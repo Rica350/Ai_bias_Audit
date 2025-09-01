@@ -9,6 +9,19 @@ _A machine learning fairness audit with bias detection, mitigation, and visualiz
 
 ---
 
+## ⚙️ Quick Access  
+
+**2. Open the Notebook**  
+**[Google Colab Notebook (Recommended)](https://colab.research.google.com/drive/1djf_4VohnSw0qD3d5xZ9PqA_3QgY73Oa?usp=sharing)**  
+
+**3. View the Presentation**  
+**[PowerPoint slides summarizing findings](https://capeitinitiative-my.sharepoint.com/:p:/g/personal/nontathu_sikhwebu_capaciti_org_za/EXt5hfJhKo5Cq8XBpc-r6SwBYJpw_bMvvUX5FJoixSh6rg?e=tr8MF8)**  
+
+**[Fairlearn](https://fairlearn.org/?utm_source=chatgpt.com)** – Fairness metrics & bias mitigation toolkit  
+**[What-If Tool](https://pair-code.github.io/what-if-tool/?utm_source=chatgpt.com)** – Visual ML inspection and fairness testing  
+
+---
+
 ## 📌 Overview  
 
 This project investigates **gender bias in hiring decisions** using a dataset inspired by real HR scenarios.  
@@ -46,13 +59,15 @@ The audit provides actionable insights for **responsible AI adoption** in recrui
 - **Jupyter Notebook / Google Colab**  
 - **Pandas, NumPy** – Data processing  
 - **Scikit-learn** – Machine learning & metrics  
-- **Fairlearn** – Fairness metrics & mitigation  
+- **[Fairlearn](https://fairlearn.org/?utm_source=chatgpt.com)** – Fairness metrics & mitigation  
 - **Matplotlib, Seaborn** – Data visualization  
 - **PowerPoint** – Stakeholder reporting  
 
 ---
 
 ## 📂 Project Structure  
+
+
 ├── 1TechTeam_AIBias.ipynb # Jupyter Notebook with bias audit analysis
 ├── Bias_Audit_Presentation.pptx # PowerPoint summary for stakeholders
 ├── README.md # Project documentation
@@ -68,11 +83,11 @@ The audit provides actionable insights for **responsible AI adoption** in recrui
 git clone https://github.com/your-username/hiring-bias-audit.git
 cd hiring-bias-audit
 
-**2. Open the Notebook**
-use Google Colab (recommended): https://colab.research.google.com/drive/1djf_4VohnSw0qD3d5xZ9PqA_3QgY73Oa?usp=sharing
+**2. Open the Notebook**  
+Use Google Colab (recommended): **[Open Notebook in Colab](https://colab.research.google.com/drive/1djf_4VohnSw0qD3d5xZ9PqA_3QgY73Oa?usp=sharing)**  
 
-**3. View the Presentation**
-PowerPoint slides summarizing findings:https://capeitinitiative-my.sharepoint.com/:p:/g/personal/nontathu_sikhwebu_capaciti_org_za/EXt5hfJhKo5Cq8XBpc-r6SwBYJpw_bMvvUX5FJoixSh6rg?e=tr8MF8
+**3. View the Presentation**  
+PowerPoint slides summarizing findings: **[View Presentation](https://capeitinitiative-my.sharepoint.com/:p:/g/personal/nontathu_sikhwebu_capaciti_org_za/EXt5hfJhKo5Cq8XBpc-r6SwBYJpw_bMvvUX5FJoixSh6rg?e=tr8MF8)**
 
 **🙌 Contribution**
 
@@ -109,9 +124,8 @@ Barocas, S., Hardt, M., & Narayanan, A. (2019). Fairness and Machine Learning: L
 
 Mitchell, M. et al. (2021). Algorithmic Fairness: Choices, Assumptions, and Definitions
 
-Microsoft Research. Fairlearn:https://fairlearn.org/?utm_source=chatgpt.com
-
-Google AI. What-If Tool:https://pair-code.github.io/what-if-tool/?utm_source=chatgpt.com
+- Microsoft Research: [Fairlearn](https://fairlearn.org/?utm_source=chatgpt.com)  
+- Google AI: [What-If Tool](https://pair-code.github.io/what-if-tool/?utm_source=chatgpt.com)
 
 
 
