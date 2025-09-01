@@ -53,4 +53,67 @@ The audit provides actionable insights for **responsible AI adoption** in recrui
 ---
 
 ## 📂 Project Structure  
+├── 1TechTeam_AIBias.ipynb # Jupyter Notebook with bias audit analysis
+├── Bias_Audit_Presentation.pptx # PowerPoint summary for stakeholders
+├── README.md # Project documentation
+├── requirements.txt # Python dependencies (optional)
+
+
+---
+
+## ⚙️ How to Run the Project  
+
+### 1. Clone the repository  
+```bash
+git clone https://github.com/your-username/hiring-bias-audit.git
+cd hiring-bias-audit
+
+**2. Open the Notebook**
+use Google Colab (recommended): https://colab.research.google.com/drive/1djf_4VohnSw0qD3d5xZ9PqA_3QgY73Oa?usp=sharing
+
+**3. View the Presentation**
+PowerPoint slides summarizing findings:https://capeitinitiative-my.sharepoint.com/:p:/g/personal/nontathu_sikhwebu_capaciti_org_za/EXt5hfJhKo5Cq8XBpc-r6SwBYJpw_bMvvUX5FJoixSh6rg?e=tr8MF8
+
+**🙌 Contribution**
+
+We welcome contributions! 🚀
+
+Fork the repository
+
+Create a new branch (feature-name)
+
+Commit changes and submit a Pull Request
+
+**📜 License**
+
+This project is licensed under the MIT License.
+You are free to use, modify, and distribute with attribution.
+
+**👥 Team & Acknowledgments**
+
+Developed by 1TechTeam
+
+Special thanks to the CAPACITI training initiative for guidance and support
+
+**📢 Notes for Users**
+
+The Colab notebook allows anyone to run the analysis without local setup
+
+The PowerPoint is designed for non-technical stakeholders to understand bias insights
+
+Feel free to fork, modify, or contribute improvements to the project
+
+**📚 References**
+
+Barocas, S., Hardt, M., & Narayanan, A. (2019). Fairness and Machine Learning: Limitations and Opportunities
+
+Mitchell, M. et al. (2021). Algorithmic Fairness: Choices, Assumptions, and Definitions
+
+Microsoft Research. Fairlearn:https://fairlearn.org/?utm_source=chatgpt.com
+
+Google AI. What-If Tool:https://pair-code.github.io/what-if-tool/?utm_source=chatgpt.com
+
+
+
+
 
