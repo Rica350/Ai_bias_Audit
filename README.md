@@ -1,42 +1,56 @@
-# Bias Audit Report: Hiring Dataset  
+# 🤖 Bias Audit Report: Hiring Dataset  
+
 _A machine learning fairness audit with bias detection, mitigation, and visualization_  
 
-## 📌 Overview  
-This project conducts a **bias audit on a hiring dataset** to analyze gender-related bias in hiring decisions. Using machine learning and fairness frameworks, the project evaluates **fairness metrics**, applies **bias mitigation techniques**, and visualizes results for stakeholder communication.  
+[![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)  
+[![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange.svg)](https://jupyter.org/)  
+[![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1djf_4VohnSw0qD3d5xZ9PqA_3QgY73Oa?usp=sharing)  
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
 
-The goal is to ensure **responsible AI adoption** in recruitment by detecting and addressing discriminatory patterns in automated decision-making systems.  
+---
+
+## 📌 Overview  
+
+This project investigates **gender bias in hiring decisions** using a dataset inspired by real HR scenarios.  
+We evaluate fairness with quantitative metrics, visualizations, and apply bias mitigation techniques to ensure equitable outcomes.  
+
+The audit provides actionable insights for **responsible AI adoption** in recruitment processes.  
 
 ---
 
 ## ✨ Features  
-- Preprocessing of hiring dataset  
+
+- Preprocessing and encoding of hiring dataset  
 - Training **baseline Logistic Regression model**  
-- Computation of **fairness metrics** (Accuracy, Selection Rate, TPR, FPR)  
-- Bias **mitigation using reweighting techniques**  
-- **Visualization** with confusion matrices & fairness metric plots  
+- Computation of **fairness metrics**: Accuracy, Selection Rate, TPR, FPR  
+- Bias **mitigation using Exponentiated Gradient / Fairlearn**  
+- **Visualization**: confusion matrices & fairness metrics by group  
 - Concise **summary table** for stakeholder reporting  
-- Ready-to-use **Google Colab Notebook** (no setup required)  
-- **Stakeholder-friendly PowerPoint presentation** included  
+- Ready-to-run **Google Colab Notebook**  
+- **PowerPoint presentation** summarizing findings for stakeholders  
 
 ---
 
 ## 📊 Dataset  
-- Dataset includes hiring decision records with demographic information.  
-- **Target variable**: Hiring decision (Hired / Not Hired).  
-- **Sensitive attribute**: Gender.  
-- Dataset is split into **train** and **test sets**.  
+
+- Dataset contains hiring decision records with demographic info, qualifications, and experience  
+- **Target variable**: HiringDecision (Hired / Not Hired)  
+- **Sensitive attribute**: Gender  
+- Split into **training** and **testing** sets  
 
 ---
 
 ## 🛠️ Technologies & Tools  
-This project was implemented in **Python (Jupyter Notebook)** using the following key libraries:  
 
-- **Data Handling**: `pandas`, `numpy`  
-- **Machine Learning**: `scikit-learn`  
-- **Fairness Framework**: [`fairlearn`](https://fairlearn.org/)  
-- **Visualization**: `matplotlib`, `seaborn`  
-- **Reporting**: `pandas` summary tables  
+- **Python 3.10+**  
+- **Jupyter Notebook / Google Colab**  
+- **Pandas, NumPy** – Data processing  
+- **Scikit-learn** – Machine learning & metrics  
+- **Fairlearn** – Fairness metrics & mitigation  
+- **Matplotlib, Seaborn** – Data visualization  
+- **PowerPoint** – Stakeholder reporting  
 
 ---
 
 ## 📂 Project Structure  
+
