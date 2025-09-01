@@ -18,7 +18,7 @@ _A machine learning fairness audit with bias detection, mitigation, and visualiz
 **[PowerPoint slides summarizing findings](https://capeitinitiative-my.sharepoint.com/:p:/g/personal/nontathu_sikhwebu_capaciti_org_za/EXt5hfJhKo5Cq8XBpc-r6SwBYJpw_bMvvUX5FJoixSh6rg?e=tr8MF8)**  
 
 **[Fairlearn](https://fairlearn.org/?utm_source=chatgpt.com)** – Fairness metrics & bias mitigation toolkit  
-**[What-If Tool](https://pair-code.github.io/what-if-tool/?utm_source=chatgpt.com)** – Visual ML inspection and fairness testing  
+**[What-If Tool](https://pair-code.github.io/what-if-tool/?utm_source=chatgpt.com)** – Visual ML inspection and fairness testing
 
 ---
 
