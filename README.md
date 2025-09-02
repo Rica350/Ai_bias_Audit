@@ -74,62 +74,73 @@ The audit provides actionable insights for **responsible AI adoption** in recrui
 ├── requirements.txt # Python dependencies (optional)
 ├── data.csv
 
+---
 
-⚙️ How to Run the Project
-1. Clone the Repository
+## ⚙️ **How to Run the Project**
+
+### **1. Clone the Repository**
+
+```bash
 git clone https://github.com/your-username/hiring-bias-audit.git
 cd hiring-bias-audit
+```
 
-2. Open the Notebook
+### **2. Open the Notebook**
 
-We recommend running the project on Google Colab for ease of use:
-👉 Open Notebook in Colab
+We recommend running the project on **Google Colab** for ease of use:
+👉 **[Open Notebook in Colab](https://colab.research.google.com/drive/1djf_4VohnSw0qD3d5xZ9PqA_3QgY73Oa?usp=sharing)**
 
-⚠️ Important: Before running the notebook, you must download the data.csv file from this repository and upload it to your Google Colab environment. The analysis will not work without this dataset.
+> ⚠️ **Important:** Before running the notebook, you must download the **`data.csv`** file from this repository and upload it to your **Google Colab environment**.
+> The analysis will **not work without this dataset**.
 
-3. View the Presentation
+### **3. View the Presentation**
 
 PowerPoint slides summarizing key findings:
-👉 View Presentation
+👉 **[View Presentation](https://capeitinitiative-my.sharepoint.com/:p:/g/personal/nontathu_sikhwebu_capaciti_org_za/EXt5hfJhKo5Cq8XBpc-r6SwBYJpw_bMvvUX5FJoixSh6rg?e=tr8MF8)**
 
-🙌 Contribution
+---
+
+## 🙌 **Contribution**
 
 We welcome contributions! 🚀
 
-Fork the repository
+1. Fork the repository
+2. Create a new branch (`feature-name`)
+3. Commit your changes and submit a Pull Request
 
-Create a new branch (feature-name)
+---
 
-Commit your changes and submit a Pull Request
+## 📜 **License**
 
-📜 License
-
-This project is licensed under the MIT License.
+This project is licensed under the **MIT License**.
 You are free to use, modify, and distribute the project with proper attribution.
 
-👥 Team & Acknowledgments
+---
 
-Developed by TechTeam
-Special thanks to the CAPACITI training initiative for guidance and support.
+## 👥 **Team & Acknowledgments**
 
-📢 Notes for Users
+Developed by **TechTeam**
+Special thanks to the **CAPACITI training initiative** for guidance and support.
 
-The Colab notebook allows anyone to run the analysis without setting up a local environment.
+---
 
-The data.csv file must be uploaded before execution.
+## 📢 **Notes for Users**
 
-The PowerPoint slides are designed for non-technical stakeholders to easily understand bias insights.
+* The Colab notebook allows anyone to run the analysis without setting up a local environment.
+* The **`data.csv`** file must be uploaded before execution.
+* The PowerPoint slides are designed for non-technical stakeholders to easily understand bias insights.
+* Feel free to fork, modify, or contribute improvements to the project.
 
-Feel free to fork, modify, or contribute improvements to the project.
+---
 
-📚 References
+## 📚 **References**
 
-Barocas, S., Hardt, M., & Narayanan, A. (2019). Fairness and Machine Learning: Limitations and Opportunities
+* Barocas, S., Hardt, M., & Narayanan, A. (2019). *Fairness and Machine Learning: Limitations and Opportunities*
+* Mitchell, M. et al. (2021). *Algorithmic Fairness: Choices, Assumptions, and Definitions*
+* Microsoft Research: [Fairlearn](https://fairlearn.org/?utm_source=chatgpt.com)
+* Google AI: [What-If Tool](https://pair-code.github.io/what-if-tool/?utm_source=chatgpt.com)
 
-Mitchell, M. et al. (2021). Algorithmic Fairness: Choices, Assumptions, and Definitions
-
-- Microsoft Research: [Fairlearn](https://fairlearn.org/?utm_source=chatgpt.com)  
-- Google AI: [What-If Tool](https://pair-code.github.io/what-if-tool/?utm_source=chatgpt.com)
+---
 
 
 
