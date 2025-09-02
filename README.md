@@ -106,7 +106,7 @@ You are free to use, modify, and distribute with attribution.
 
 **👥 Team & Acknowledgments**
 
-Developed by 1TechTeam
+Developed by TechTeam
 
 Special thanks to the CAPACITI training initiative for guidance and support
 
