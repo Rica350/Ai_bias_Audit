@@ -81,16 +81,18 @@ The audit provides actionable insights for **responsible AI adoption** in recrui
 ### **1. Clone the Repository**
 
 ```bash
-git clone https://github.com/your-username/hiring-bias-audit.git
-cd hiring-bias-audit
+git clone https://github.com/Rica350/Ai_bias_Audit.git
+cd Ai_bias_Audit
 ```
+
+Or view it directly on GitHub: 👉 [Ai\_bias\_Audit Repository](https://github.com/Rica350/Ai_bias_Audit)
 
 ### **2. Open the Notebook**
 
 We recommend running the project on **Google Colab** for ease of use:
 👉 **[Open Notebook in Colab](https://colab.research.google.com/drive/1djf_4VohnSw0qD3d5xZ9PqA_3QgY73Oa?usp=sharing)**
 
-> ⚠️ **Important:** Before running the notebook, you must download the **`data.csv`** file from this repository and upload it to your **Google Colab environment**.
+> ⚠️ **Important:** Before running the notebook, you must download the dataset **[`data.csv`](https://capeitinitiative-my.sharepoint.com/:x:/g/personal/defence_ndzhobela_capaciti_org_za/ESTZ51B42qZIvitlj04OptoBGjcC0gwPaQah7ZilbDWAIw?e=KknBWK)** and upload it to your **Google Colab environment**.
 > The analysis will **not work without this dataset**.
 
 ### **3. View the Presentation**
@@ -127,7 +129,7 @@ Special thanks to the **CAPACITI training initiative** for guidance and support.
 ## 📢 **Notes for Users**
 
 * The Colab notebook allows anyone to run the analysis without setting up a local environment.
-* The **`data.csv`** file must be uploaded before execution.
+* The **[`data.csv`](https://capeitinitiative-my.sharepoint.com/:x:/g/personal/defence_ndzhobela_capaciti_org_za/ESTZ51B42qZIvitlj04OptoBGjcC0gwPaQah7ZilbDWAIw?e=KknBWK)** file must be uploaded before execution.
 * The PowerPoint slides are designed for non-technical stakeholders to easily understand bias insights.
 * Feel free to fork, modify, or contribute improvements to the project.
 
@@ -141,6 +143,8 @@ Special thanks to the **CAPACITI training initiative** for guidance and support.
 * Google AI: [What-If Tool](https://pair-code.github.io/what-if-tool/?utm_source=chatgpt.com)
 
 ---
+
+
 
 
 
